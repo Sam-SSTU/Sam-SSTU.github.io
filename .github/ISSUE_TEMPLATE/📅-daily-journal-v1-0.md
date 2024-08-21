@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# 📅 Daily Journal V1.0
-
 **📅 Date**: 
 **🗓️ Type of Day**: 
 **🎯 Main Focus**: 
