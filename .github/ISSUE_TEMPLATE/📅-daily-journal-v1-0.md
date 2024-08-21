@@ -10,7 +10,7 @@ assignees: ''
 # 📅 Daily Journal V1.0
 
 **📅 Date**: YYYY-MM-DD  
-**🗓️ Type of Day**: (e.g., School Day, Summer Holiday, Winter Holiday, Weekend, Special Event, etc.)
+**🗓️ Type of Day**: 
 
 ## 📝 Today's To-Do List
 - [ ] **Task 1**: [Describe the task here]  
