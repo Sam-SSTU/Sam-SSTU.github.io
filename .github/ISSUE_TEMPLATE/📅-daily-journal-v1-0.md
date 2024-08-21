@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# 📅 Daily Journal V1.1
+# 📅 Daily Journal V1.0
 
 **📅 Date**: 
 **🗓️ Type of Day**: 
@@ -32,11 +32,8 @@ assignees: ''
 - [ ] **Task 3**: 
 
 ## 🌟 Summary
-- **🙂 Mood Today**: 
-- **✨ Highlights**: 
-- **⚠️ Challenges**: 
+- **🙂 Mood Today**:
 - **📚 Learnings**: 
-- **🙏 Gratitude**: 
 
 ## 🎯 Tomorrow's Goal
 - **🎯 Main Focus**: 
