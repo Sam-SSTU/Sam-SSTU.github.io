@@ -7,27 +7,27 @@ assignees: ''
 
 ---
 
-# 📅 Daily Journal V1.0
+# 📅 Daily Journal V1.1
 
 **📅 Date**: 
 **🗓️ Type of Day**: 
+**🎯 Main Focus**: 
 
 ## 📝 Today's To-Do List
 - [ ] **Task 1**: 
-- [ ] **Task 2**:  
+- [ ] **Task 2**: 
 - [ ] **Task 3**: 
-- [ ] **Task 4**:  
+- [ ] **Task 4**: 
 - [ ] **Task 5**: 
+- [ ] **Task 6**: 
+- [ ] **Task 7**: 
+- [ ] **Task 8**: 
+- [ ] **Task 9**: 
+- [ ] **Task 10**: 
 
-## ✅ Completed To-Do List
-- [x] **Task 1**:   
-- [x] **Task 2**: 
-- [x] **Task 3**: 
-- [x] **Task 4**: 
-- [x] **Task 5**: 
 
 ## ❌ Incomplete Tasks
-- [ ] **Task 1**:   
+- [ ] **Task 1**: 
 - [ ] **Task 2**: 
 - [ ] **Task 3**: 
 
