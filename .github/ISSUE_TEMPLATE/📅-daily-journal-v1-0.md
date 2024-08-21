@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-**📅 Date**: 
 **🗓️ Type of Day**: 
 **🎯 Main Focus**: 
 
@@ -30,9 +29,9 @@ assignees: ''
 - **Task 3**: 
 
 ## 🌟 Summary
-- **🙂 Mood Today**:
+- **🙂 Mood Today**: 
 - **📚 Learnings**: 
 
 ## 🎯 Tomorrow's Goal
 - **🎯 Main Focus**: 
-- **🛠️ Preparation**:
+- **🛠️ Preparation**: 
