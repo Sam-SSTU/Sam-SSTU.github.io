@@ -1,8 +1,8 @@
 ---
 name: "\U0001F4C5 Daily Journal V1.0"
 about: V1.0
-title: ''
-labels: ''
+title: "\U0001F4C5 Daily Journal "
+labels: Daily Journal
 assignees: ''
 
 ---
