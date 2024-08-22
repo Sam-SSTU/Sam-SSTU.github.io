@@ -10,7 +10,7 @@
 - [ ] **Task 6**: Physics Ch12-15 Revision
 - [ ] **Task 7**: Physics Ch12-15 Practice
 - [ ] **Task 8**: Physics Ch12-15 MCQ
-- [ ] **Task 9**: Math class
+- [x] **Task 9**: Math class
 - [ ] **Task 10**: 
 
 
