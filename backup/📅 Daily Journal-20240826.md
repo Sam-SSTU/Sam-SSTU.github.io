@@ -9,7 +9,7 @@
 - [ ] **Task 5**: IG Math mock test
 - [ ] **Task 6**: Time arrangement with teachers
 - [ ] **Task 7**: Youtube
-- [ ] **Task 8**: 
+- [ ] **Task 8**: Reinstall Mac 
 - [ ] **Task 9**: 
 - [ ] **Task 10**: 
 
