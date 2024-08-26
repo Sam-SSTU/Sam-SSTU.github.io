@@ -20,9 +20,11 @@
 - **Task 3**: 
 
 ## 🌟 Summary
-- **🙂 Mood Today**: 
-- **📚 Learnings**: 
+- **🙂 Mood Today**: 7
+- **📚 Learnings**: phone distraction becomes a problem 
+
+Also test preparation ❗️
 
 ## 🎯 Tomorrow's Goal
-- **🎯 Main Focus**: 
+- **🎯 Main Focus**: review learnings, YouTube
 - **🛠️ Preparation**: 
