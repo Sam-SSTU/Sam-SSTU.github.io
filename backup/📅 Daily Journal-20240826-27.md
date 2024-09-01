@@ -3,7 +3,7 @@
 
 ## 📝 Today's To-Do List
 - [x] **Task 1**: Chem. SQ. MCQ. 1Chapter
-- [ ] **Task 2**: Physics Same
+- [x] **Task 2**: Physics Same
 - [x] **Task 3**: Ielts Part1
 - [ ] **Task 4**: Prepare Ielts book/exercise
 - [ ] **Task 5**: IG Math mock test
