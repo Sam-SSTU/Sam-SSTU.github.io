@@ -7,7 +7,7 @@
 - [ ] **Task 3**: math ig test prep.
 - [ ] **Task 4**: ielts
 - [ ] **Task 5**: class time arrange
-- [ ] **Task 6**: accounting review
+- [x] **Task 6**: accounting review
 - [ ] **Task 7**: bs hw
 - [ ] **Task 8**: physics review
 - [ ] **Task 9**: 
