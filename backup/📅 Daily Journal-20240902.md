@@ -3,7 +3,7 @@
 
 ## 📝 Today's To-Do List
 - [x] **Task 1**: bs hw
-- [ ] **Task 2**: math review
+- [x] **Task 2**: math review
 - [ ] **Task 3**: math ig test prep.
 - [ ] **Task 4**: ielts
 - [x] **Task 5**: class time arrange
