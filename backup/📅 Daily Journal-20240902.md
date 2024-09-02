@@ -9,7 +9,7 @@
 - [ ] **Task 5**: class time arrange
 - [ ] **Task 6**: accounting review
 - [ ] **Task 7**: bs hw
-- [ ] **Task 8**: 
+- [ ] **Task 8**: physics review
 - [ ] **Task 9**: 
 - [ ] **Task 10**: 
 
