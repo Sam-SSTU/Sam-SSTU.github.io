@@ -15,14 +15,14 @@
 
 
 ## ❌ Incomplete Tasks
-- **Task 1**: 
-- **Task 2**: 
-- **Task 3**: 
+- **Task 1**: math ig test prep.
+- **Task 2**: ielts
+- **Task 3**: physics review
 
 ## 🌟 Summary
-- **🙂 Mood Today**: 
-- **📚 Learnings**: 
+- **🙂 Mood Today**: 8
+- **📚 Learnings**: sleep time is important, determines the mood each day.
 
 ## 🎯 Tomorrow's Goal
-- **🎯 Main Focus**: 
-- **🛠️ Preparation**: 
+- **🎯 Main Focus**: Revision & Test prep.
+- **🛠️ Preparation**: sleep early
