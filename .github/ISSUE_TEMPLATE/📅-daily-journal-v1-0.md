@@ -22,6 +22,12 @@ assignees: ''
 - [ ] **Task 9**: 
 - [ ] **Task 10**: 
 
+## 🍵Need Revision
+- [ ] **Task 1**: 
+- [ ] **Task 2**: 
+- [ ] **Task 3**: 
+- [ ] **Task 4**: 
+- [ ] **Task 5**: 
 
 ## ❌ Incomplete Tasks
 - **Task 1**: 
