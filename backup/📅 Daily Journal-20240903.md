@@ -1,5 +1,5 @@
-**🗓️ Type of Day**: 
-**🎯 Main Focus**: 
+**🗓️ Type of Day**: school day
+**🎯 Main Focus**: IG exams
 
 ## 📝 Today's To-Do List
 - [ ] **Task 1**: Physics Sound Practice
@@ -17,7 +17,7 @@
 - [ ] **Task 1**: Physics Definition & Syllabus Review(Electricity)
 - [ ] **Task 2**: Econ definitions Money
 - [ ] **Task 3**: Business definitions(two chapters)
-- [ ] **Task 4**: 
+- [ ] **Task 4**: Accounting summary and review
 - [ ] **Task 5**:  
 
 ## ❌ Incomplete Tasks
