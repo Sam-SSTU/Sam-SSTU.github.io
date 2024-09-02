@@ -15,9 +15,9 @@
 
 
 ## ❌ Incomplete Tasks
-- **Task 1**: 
-- **Task 2**: 
-- **Task 3**: 
+- **Task 1**: Letter to future self
+- **Task 2**: Business revision
+- **Task 3**: smc test prep.
 
 ## 🌟 Summary
 - **🙂 Mood Today**: 5
