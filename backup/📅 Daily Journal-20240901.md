@@ -9,8 +9,8 @@
 - [x] **Task 5**: Business HW
 - [x] **Task 6**: Accounting 10.1-10.4hw
 - [ ] **Task 7**: Business revision
-- [ ] **Task 8**: Econ revision(definition, savemyexams)
-- [ ] **Task 9**: Accounting review(definition. books)
+- [x] **Task 8**: Econ revision(definition, savemyexams)
+- [x] **Task 9**: Accounting review(definition. books)
 - [ ] **Task 10**: smc test prep.
 
 
