@@ -20,9 +20,10 @@
 - **Task 3**: 
 
 ## 🌟 Summary
-- **🙂 Mood Today**: 
-- **📚 Learnings**: 
+- **🙂 Mood Today**: 5
+- **📚 Learnings**: distraction:phone
+plz stop scrolling phone anymore!
 
 ## 🎯 Tomorrow's Goal
-- **🎯 Main Focus**: 
-- **🛠️ Preparation**: 
+- **🎯 Main Focus**: revision
+- **🛠️ Preparation**: notes
