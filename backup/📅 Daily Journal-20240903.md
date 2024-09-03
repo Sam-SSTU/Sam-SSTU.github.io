@@ -13,7 +13,7 @@
 - [ ] **Task 9**: chem quiz prep
 - [ ] **Task 10**: 充流量
 
-## 🍵Need Revision
+## 🍵 Need Revision
 - [ ] **Task 1**: Physics Definition & Syllabus Review(Electricity)
 - [ ] **Task 2**: Econ definitions Money
 - [ ] **Task 3**: Business definitions(two chapters)
