@@ -3,7 +3,7 @@
 
 ## 📝 Today's To-Do List
 - [ ] **Task 1**: Business definition review
-- [ ] **Task 2**: Econ ch17 hw&notes
+- [x] **Task 2**: Econ ch17 hw&notes
 - [ ] **Task 3**: P1 hw
 - [ ] **Task 4**: En vocab notes
 - [ ] **Task 5**: Econ z note
