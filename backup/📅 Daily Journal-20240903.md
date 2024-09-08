@@ -5,7 +5,7 @@
 - [ ] **Task 1**: Physics Sound Practice
 - [ ] **Task 2**: Physics magnet Practice
 - [ ] **Task 3**: ig prep
-- [ ] **Task 4**: letter to future self
+- [x] **Task 4**: letter to future self
 - [ ] **Task 5**: smc test prep.
 - [ ] **Task 6**: ielts reading ans.
 - [ ] **Task 7**: writing instructions youtube
@@ -17,7 +17,7 @@
 - [ ] **Task 1**: Physics Definition & Syllabus Review(Electricity)
 - [ ] **Task 2**: Econ definitions Money
 - [ ] **Task 3**: Business definitions(two chapters)
-- [ ] **Task 4**: Accounting summary and review
+- [x] **Task 4**: Accounting summary and review
 - [ ] **Task 5**:  
 
 ## ❌ Incomplete Tasks
