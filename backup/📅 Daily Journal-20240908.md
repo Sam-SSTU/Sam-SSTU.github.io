@@ -8,7 +8,7 @@
 - [ ] **Task 4**: En vocab notes
 - [ ] **Task 5**: Econ z note
 - [ ] **Task 6**: Acc hw
-- [ ] **Task 7**: Physics sq
+- [x] **Task 7**: Physics sq
 - [ ] **Task 8**: 
 - [ ] **Task 9**: 
 - [ ] **Task 10**: 
