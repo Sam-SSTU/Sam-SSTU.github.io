@@ -5,7 +5,7 @@
 - [ ] **Task 1**: physics magnetic
 - [ ] **Task 2**: math ig prep
 - [ ] **Task 3**: grammer hw/note
-- [ ] **Task 4**: 
+- [ ] **Task 4**: bs advantage notes
 - [ ] **Task 5**: 
 - [ ] **Task 6**: 
 - [ ] **Task 7**: 
