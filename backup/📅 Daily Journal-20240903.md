@@ -16,7 +16,7 @@
 ## 🍵 Need Revision
 - [ ] **Task 1**: Physics Definition & Syllabus Review(Electricity)
 - [ ] **Task 2**: Econ definitions Money
-- [ ] **Task 3**: Business definitions(two chapters)
+- [x] **Task 3**: Business definitions(two chapters)
 - [x] **Task 4**: Accounting summary and review
 - [ ] **Task 5**:  
 
