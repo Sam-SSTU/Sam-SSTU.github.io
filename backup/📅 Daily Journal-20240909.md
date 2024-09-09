@@ -2,7 +2,7 @@
 **🎯 Main Focus**: review
 
 ## 📝 Today's To-Do List
-- [ ] **Task 1**: physics magnetic
+- [x] **Task 1**: physics magnetic
 - [ ] **Task 2**: math ig prep
 - [x] **Task 3**: grammer hw/note
 - [x] **Task 4**: bs advantage notes
@@ -14,7 +14,7 @@
 - [ ] **Task 10**: 
 
 ## 🍵 Need Revision
-- [ ] **Task 1**: business
+- [x] **Task 1**: business
 - [ ] **Task 2**: accounting
 - [ ] **Task 3**: 
 - [ ] **Task 4**: 
