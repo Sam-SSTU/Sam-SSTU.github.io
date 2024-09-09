@@ -2,12 +2,12 @@
 **🎯 Main Focus**: homework
 
 ## 📝 Today's To-Do List
-- [ ] **Task 1**: Business definition review
+- [x] **Task 1**: Business definition review
 - [x] **Task 2**: Econ ch17 hw&notes
 - [x] **Task 3**: P1 hw
 - [ ] **Task 4**: En vocab notes
 - [ ] **Task 5**: Econ z note
-- [ ] **Task 6**: Acc hw
+- [x] **Task 6**: Acc hw
 - [x] **Task 7**: Physics sq
 - [ ] **Task 8**: 
 - [ ] **Task 9**: 
