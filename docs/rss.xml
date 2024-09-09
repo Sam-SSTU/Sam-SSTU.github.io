@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Sam's Blog</title><link>https://Sam-SSTU.github.io</link><description>My daily learning journal.</description><copyright>Sam's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/79125867?v=4</url><title>avatar</title><link>https://Sam-SSTU.github.io</link></image><lastBuildDate>Mon, 09 Sep 2024 01:55:27 +0000</lastBuildDate><managingEditor>Sam's Blog</managingEditor><ttl>60</ttl><webMaster>Sam's Blog</webMaster><item><title>📅 Daily Journal-20240909</title><link>https://Sam-SSTU.github.io/post/%F0%9F%93%85%20Daily%20Journal-20240909.html</link><description>**🗓️ Type of Day**: school day
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Sam's Blog</title><link>https://Sam-SSTU.github.io</link><description>My daily learning journal.</description><copyright>Sam's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/79125867?v=4</url><title>avatar</title><link>https://Sam-SSTU.github.io</link></image><lastBuildDate>Mon, 09 Sep 2024 02:09:40 +0000</lastBuildDate><managingEditor>Sam's Blog</managingEditor><ttl>60</ttl><webMaster>Sam's Blog</webMaster><item><title>📅 Daily Journal-20240909</title><link>https://Sam-SSTU.github.io/post/%F0%9F%93%85%20Daily%20Journal-20240909.html</link><description>**🗓️ Type of Day**: school day
 **🎯 Main Focus**: review
 
 ## 📝 Today's To-Do List
 - [ ] **Task 1**: physics magnetic
 - [ ] **Task 2**: math ig prep
 - [ ] **Task 3**: grammer hw/note
-- [ ] **Task 4**: bs advantage notes
+- [x] **Task 4**: bs advantage notes
 - [ ] **Task 5**: 
 - [ ] **Task 6**: 
 - [ ] **Task 7**: 
