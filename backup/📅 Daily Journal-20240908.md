@@ -26,9 +26,9 @@
 - **Task 3**: 
 
 ## 🌟 Summary
-- **🙂 Mood Today**: 
-- **📚 Learnings**: 
+- **🙂 Mood Today**: 8
+- **📚 Learnings**: balance time, review early
 
 ## 🎯 Tomorrow's Goal
-- **🎯 Main Focus**: 
+- **🎯 Main Focus**: homeworks
 - **🛠️ Preparation**: 
