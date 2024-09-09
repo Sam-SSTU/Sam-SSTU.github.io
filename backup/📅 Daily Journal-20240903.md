@@ -10,7 +10,7 @@
 - [ ] **Task 6**: ielts reading ans.
 - [ ] **Task 7**: writing instructions youtube
 - [ ] **Task 8**: Chemistry Unit7 Sq
-- [ ] **Task 9**: chem quiz prep
+- [x] **Task 9**: chem quiz prep
 - [ ] **Task 10**: 充流量
 
 ## 🍵 Need Revision
