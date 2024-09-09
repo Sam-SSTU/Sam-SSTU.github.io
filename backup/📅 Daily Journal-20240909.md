@@ -4,7 +4,7 @@
 ## 📝 Today's To-Do List
 - [ ] **Task 1**: physics magnetic
 - [ ] **Task 2**: math ig prep
-- [ ] **Task 3**: grammer hw/note
+- [x] **Task 3**: grammer hw/note
 - [x] **Task 4**: bs advantage notes
 - [ ] **Task 5**: 
 - [ ] **Task 6**: 
